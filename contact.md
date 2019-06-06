@@ -10,7 +10,7 @@ title: Entre em contato
    </div>
   <form action="http://formspree.io/eduardo@correaeduardo.com" method="POST">
   <input type="email" name="email" placeholder="Seu e-mail aqui!" required>
-  <input type="phone" name="phone" pattern="[0-9]" placeholder="(11) 9.1234-5678" required>
+  <input type="phone" name="phone" placeholder="(11) 9.1234-5678" required>
   <textarea name="message" placeholder="Digite aqui a sua mensagem!" required></textarea>
   <button type="submit">Enviar!</button>
 </form>
