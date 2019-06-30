@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Example Post Formatting"
-date:   2014-12-15
+title:  "Post 1 - Test Post!!!"
+date:   2019-06-30
 description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
 ---
 
